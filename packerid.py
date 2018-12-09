@@ -1,4 +1,4 @@
-#!/usr/local/bin/python
+#!/usr/bin/env python
 #
 # Author: Jim Clausing
 # Date:   2009-05-15
